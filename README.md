@@ -2,7 +2,9 @@
 
 Android mobile application with information of restrictions in Portugal.
 
-It implements two widgets: risk of infection in a municipality; and daily status of a restriction
+It implements two widgets:
+- risk of infection in a municipality;
+- and daily status of a restriction
 in a municipality.
 
 ## Data sources
