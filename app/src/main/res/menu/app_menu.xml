@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/restriction_refresh"
+        android:icon="@drawable/ic_menu_refresh"
+        android:title="Actualizar" />
+    <item
+        android:id="@+id/restriction_widgets"
+        android:icon="@drawable/ic_menu_widgets"
+        android:title="Widgets" />
+    <item
+        android:id="@+id/restriction_contact"
+        android:icon="@drawable/ic_menu_email"
+        android:title="Contacto" />
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/risk_widget"
+    android:initialLayout="@layout/risk_widget"
+    android:minWidth="110dp"
+    android:minHeight="40dp"
+    android:previewImage="@drawable/risk_widget_preview"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="43200000"
+    android:widgetCategory="home_screen|keyguard"
+    android:configure="pt.restricoes.RiskWidgetSettingsActivity"
+    >
+</appwidget-provider>

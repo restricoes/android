@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="16dp"
+    android:orientation="horizontal"
+    >
+    <TextView
+        android:id="@+id/restriction_section_name"
+        android:layout_width="72dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:textColor="?attr/colorAccent"
+        android:textAlignment="textEnd"
+        android:textSize="14sp"
+        >
+    </TextView>
+
+    <LinearLayout
+        android:id="@+id/restriction_section_items"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:orientation="vertical"
+        >
+    </LinearLayout>
+</LinearLayout>
